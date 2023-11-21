@@ -4,7 +4,7 @@ Crypto Snap is a ReactJS-based web application that provides real-time informati
 
 ## Live Demo
 
-Visit the live demo of Crypto Snap: [Crypto Snap Live Demo](#)
+Visit the live demo of Crypto Snap: [Live Demo](https://crypto-snap.vercel.app/)
 
 ## Features
 
