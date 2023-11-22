@@ -1,4 +1,4 @@
-# Crypto Snap
+# Crypto Snap 
 
 Crypto Snap is a ReactJS-based web application that provides real-time information about the top 7 trending bitcoins and their market trends. The project utilizes various technologies such as Tailwind CSS, CoinGecko API, Chart.js, react-router-dom, Hero Icons, and Moment.js.
 
